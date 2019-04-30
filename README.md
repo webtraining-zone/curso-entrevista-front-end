@@ -1,5 +1,7 @@
 # [Tips para una Entrevista Técnica de Front end](https://webtraining.zone/eventos/tips-para-una-entrevista-tecnica-de-front-end) 
 
+![Tips para una entrevista técnica de front end](https://webtraining.zone/img/metadata-courses/tips-entrevista-tecnica.jpg)
+
 [Respuestas y ejemplos referentes a JavaScript](/src/js/README.md)
 
 - [Herencia Prototípica](/src/js/01-prototypal-inheritance.js)
