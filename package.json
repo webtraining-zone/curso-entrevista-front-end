@@ -1,0 +1,13 @@
+{
+  "name": "curso-entrevista-front-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex Arriaga <alexzander.arriaga@base22.com>",
+  "license": "MIT",
+  "scripts": {
+    "start" : "live-server ./ --entry-file=index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
